@@ -2,24 +2,25 @@ import os
 import json
 import shutil
 import cv2
+import time
+
+def show_progress_message(message):
+    print(f"\r{message}", end="")
+
+def animate_progress():
+    for _ in range(10):
+        time.sleep(0.3)
+        print(".", end="", flush=True)
+
 
 def get_bboxes(json_file):
-    """
-    Extract bounding box information from a JSON file.
-
-    Args:
-        json_file (str): Path to the JSON file.
-
-    Returns:
-        list: A list of dictionaries containing bounding box information.
-    """
     with open(json_file, 'r') as f:
         data = json.load(f)
 
     # Check if the required keys are present in the dictionary
     task6 = data.get("task6")
     if task6 is None:
-        # print("Key 'task6' not found in JSON.")
+        print("Key 'task6' not found in JSON.")
         return []
 
     output = task6.get("output")
@@ -37,8 +38,9 @@ def get_bboxes(json_file):
         print("Key 'bars' not found in JSON.")
         return []
 
+    print(f"Found {len(bboxes)} bounding boxes in JSON.")
+
     bboxes_list = []
-    
     for bbox in bboxes:
         x, y = bbox["x0"], bbox["y0"]
         x0, y0 = x, y + bbox["height"]
@@ -49,13 +51,6 @@ def get_bboxes(json_file):
 
 
 def create_train_real_barbbox_idl(source_folder):
-    """
-    Create a file containing bounding box information for each image in the source folder.
-
-    Args:
-        source_folder (str): Path to the folder containing JSON files.
-
-    """
     output_dir = "dataset/train_real"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -63,31 +58,27 @@ def create_train_real_barbbox_idl(source_folder):
     output_file = os.path.join(output_dir, "train_real_barbbox.idl")
     with open(output_file, "a") as f:
         json_files = [file for file in os.listdir(source_folder) if file.endswith(".json")]
+        total_files = len(json_files)
         for idx, json_file in enumerate(json_files):
+            show_progress_message(f"Processing JSON {idx + 1}/{total_files}: ")
             img_name = json_file[:-5] + ".jpg"
             bboxes = get_bboxes(os.path.join(source_folder, json_file))
             if len(bboxes) == 0:
                 continue
             line = f"{img_name} -<>- {bboxes}\n"
             f.write(line)
+        print("\nProcessing completed!")
+
 
 def create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, direction):
-    """
-    Create a file containing image size information for each image in the source folder and copy images to the target folder.
-
-    Args:
-        source_folder (str): Path to the folder containing images.
-        target_folder (str): Path to the folder to copy images to.
-        valid_images (list): List of valid images.
-        direction (str): Direction of the bar chart.
-
-    """
     if not os.path.exists(target_folder):
         os.makedirs(target_folder)
-    
+
     output_file = "dataset/train_real/train_real_imgsize.idl"
     with open(output_file, "a") as f:
-        for img_name in valid_images:
+        total_images = len(valid_images)
+        for idx, img_name in enumerate(valid_images):
+            show_progress_message(f"Copying image {idx + 1}/{total_images}")
             source_path = os.path.join(source_folder, img_name)
             target_path = os.path.join(target_folder, img_name)
             if os.path.exists(source_path):
@@ -96,9 +87,12 @@ def create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, 
             img_size = f"[{img.shape[1]}, {img.shape[0]}]"
             line = f"{img_name} -<>- [{img_size}, '{direction}']\n"
             f.write(line)
+        print("\nCopying completed!")
 
 
 if __name__ == "__main__":
+    print("Running the script...")
+
     # folder horizontal bars
     create_train_real_barbbox_idl("data_challenge/anno_horizontal_bar")
 
@@ -108,6 +102,10 @@ if __name__ == "__main__":
 
     create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, "horizontal")
 
+    # Simulate some progress for the second part
+    print("Processing the second part...")
+    animate_progress()
+
     # folder vertical bars
     create_train_real_barbbox_idl("data_challenge/anno_vertical_bar")
 
@@ -115,3 +113,5 @@ if __name__ == "__main__":
     source_folder = "data_challenge/img_vertical_bar"
     target_folder = "dataset/train_real/plot"
     create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, "vertical")
+
+    print("All tasks completed! Have a great day! 😄")
