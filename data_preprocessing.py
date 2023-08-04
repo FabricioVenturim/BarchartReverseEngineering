@@ -98,7 +98,7 @@ if __name__ == "__main__":
 
     valid_images = [line.split(" -<>- ")[0] for line in open("dataset/train_real/train_real_barbbox.idl", "r")]
     source_folder = "data_challenge/img_horizontal_bar"
-    target_folder = "dataset/train_real/plot"
+    target_folder = "dataset/train_real/plots"
 
     create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, "horizontal")
 
@@ -111,7 +111,7 @@ if __name__ == "__main__":
 
     valid_images = [line.split(" -<>- ")[0] for i, line in enumerate(open("dataset/train_real/train_real_barbbox.idl", "r")) if i >= len(valid_images)]
     source_folder = "data_challenge/img_vertical_bar"
-    target_folder = "dataset/train_real/plot"
+    target_folder = "dataset/train_real/plots"
     create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, "vertical")
 
     print("All tasks completed! Have a great day! 😄")
