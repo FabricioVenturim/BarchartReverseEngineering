@@ -51,11 +51,11 @@ def get_bboxes(json_file):
 
 
 def create_train_real_barbbox_idl(source_folder):
-    output_dir = "dataset/test_real"
+    output_dir = "dataset/train_real"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    output_file = os.path.join(output_dir, "test_real_barbbox.idl")
+    output_file = os.path.join(output_dir, "train_real_barbbox.idl")
     with open(output_file, "a") as f:
         json_files = [file for file in os.listdir(source_folder) if file.endswith(".json")]
         total_files = len(json_files)
@@ -74,7 +74,7 @@ def create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, 
     if not os.path.exists(target_folder):
         os.makedirs(target_folder)
 
-    output_file = "dataset/test_real/test_real_imgsize.idl"
+    output_file = "dataset/train_real/train_real_imgsize.idl"
     with open(output_file, "a") as f:
         total_images = len(valid_images)
         for idx, img_name in enumerate(valid_images):
@@ -94,11 +94,11 @@ if __name__ == "__main__":
     print("Running the script...")
 
     # folder horizontal bars
-    create_train_real_barbbox_idl("data_challenge_test/anno_horizontal_bar")
+    create_train_real_barbbox_idl("data_challenge/anno_horizontal_bar")
 
-    valid_images = [line.split(" -<>- ")[0] for line in open("dataset/teste_real/test_real_barbbox.idl", "r")]
-    source_folder = "data_challenge_test/img_horizontal_bar"
-    target_folder = "dataset/test_real/plots"
+    valid_images = [line.split(" -<>- ")[0] for line in open("dataset/train_real/train_real_barbbox.idl", "r")]
+    source_folder = "data_challenge/img_horizontal_bar"
+    target_folder = "dataset/train_real/plots"
 
     create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, "horizontal")
 
@@ -107,11 +107,11 @@ if __name__ == "__main__":
     animate_progress()
 
     # folder vertical bars
-    create_train_real_barbbox_idl("data_challenge_test/anno_vertical_bar")
+    create_train_real_barbbox_idl("data_challenge/anno_vertical_bar")
 
-    valid_images = [line.split(" -<>- ")[0] for i, line in enumerate(open("dataset/test_real/test_real_barbbox.idl", "r")) if i >= len(valid_images)]
-    source_folder = "data_challenge_test/img_vertical_bar"
-    target_folder = "dataset/test_real/plots"
+    valid_images = [line.split(" -<>- ")[0] for i, line in enumerate(open("dataset/train_real/train_real_barbbox.idl", "r")) if i >= len(valid_images)]
+    source_folder = "data_challenge/img_vertical_bar"
+    target_folder = "dataset/train_real/plots"
     create_train_real_imgsize_idl_and_copy_images(source_folder, target_folder, valid_images, "vertical")
 
     print("All tasks completed! Have a great day! 😄")
