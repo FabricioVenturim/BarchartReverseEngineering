@@ -1,0 +1,150 @@
+test_synthetic_simple_0.png -<>- None
+test_synthetic_simple_1.png -<>- None
+test_synthetic_simple_2.jpg -<>- {'bbox': [459, 11, 557, 29], 'text': 'SwFKkBzse'}
+test_synthetic_simple_3.png -<>- None
+test_synthetic_simple_4.jpg -<>- {'bbox': [198, 33, 313, 51], 'text': 'YQkxpMzDZT'}
+test_synthetic_simple_5.png -<>- None
+test_synthetic_simple_6.png -<>- None
+test_synthetic_simple_7.png -<>- None
+test_synthetic_simple_8.jpg -<>- {'bbox': [51, 11, 182, 29], 'text': 'Bg FxHs CZiNa'}
+test_synthetic_simple_9.jpg -<>- None
+test_synthetic_simple_10.jpg -<>- {'bbox': [333, 9, 404, 23], 'text': 'WPmEQxX'}
+test_synthetic_simple_11.jpg -<>- {'bbox': [191, 37, 258, 55], 'text': 'e dHhzV'}
+test_synthetic_simple_12.png -<>- None
+test_synthetic_simple_13.png -<>- None
+test_synthetic_simple_14.png -<>- None
+test_synthetic_simple_15.png -<>- {'bbox': [315, 17, 397, 38], 'text': 'z VakjV j'}
+test_synthetic_simple_16.png -<>- {'bbox': [410, 13, 468, 29], 'text': 'OWvf id'}
+test_synthetic_simple_17.jpg -<>- {'bbox': [198, 33, 290, 48], 'text': 'S vxMFx hrT'}
+test_synthetic_simple_18.jpg -<>- None
+test_synthetic_simple_19.jpg -<>- None
+test_synthetic_simple_20.png -<>- None
+test_synthetic_simple_21.jpg -<>- None
+test_synthetic_simple_22.png -<>- None
+test_synthetic_simple_23.jpg -<>- {'bbox': [93, 18, 181, 38], 'text': 'Vv X p le'}
+test_synthetic_simple_24.jpg -<>- {'bbox': [312, 12, 367, 26], 'text': 'e  DZLP'}
+test_synthetic_simple_25.jpg -<>- {'bbox': [327, 13, 414, 27], 'text': 'td thdrQv LK'}
+test_synthetic_simple_26.jpg -<>- None
+test_synthetic_simple_27.png -<>- None
+test_synthetic_simple_28.png -<>- {'bbox': [128, 12, 210, 26], 'text': 'CtCAj Jv ArA'}
+test_synthetic_simple_29.png -<>- None
+test_synthetic_simple_30.jpg -<>- None
+test_synthetic_simple_31.jpg -<>- {'bbox': [242, 14, 311, 33], 'text': 'W QtdL'}
+test_synthetic_simple_32.jpg -<>- None
+test_synthetic_simple_33.png -<>- {'bbox': [227, 15, 325, 34], 'text': 'BU txs Mm'}
+test_synthetic_simple_34.jpg -<>- None
+test_synthetic_simple_35.jpg -<>- {'bbox': [156, 13, 252, 31], 'text': 'zgvbanI  Qu'}
+test_synthetic_simple_36.png -<>- None
+test_synthetic_simple_37.jpg -<>- {'bbox': [158, 12, 263, 24], 'text': 'DluZBsqSmPbkZE'}
+test_synthetic_simple_38.png -<>- {'bbox': [205, 18, 342, 33], 'text': 'UMqccpOGDzkLv'}
+test_synthetic_simple_39.jpg -<>- None
+test_synthetic_simple_40.jpg -<>- None
+test_synthetic_simple_41.jpg -<>- {'bbox': [158, 10, 222, 24], 'text': 'jurXZGb E'}
+test_synthetic_simple_42.png -<>- {'bbox': [368, 14, 454, 33], 'text': 'teYut Hoc'}
+test_synthetic_simple_43.png -<>- None
+test_synthetic_simple_44.jpg -<>- {'bbox': [206, 17, 334, 35], 'text': 'luSWKdg kOEi'}
+test_synthetic_simple_45.png -<>- {'bbox': [34, 10, 164, 25], 'text': 'yYU DQMWMxwG'}
+test_synthetic_simple_46.png -<>- {'bbox': [211, 13, 340, 32], 'text': 'VqlWfJZWXBg'}
+test_synthetic_simple_47.jpg -<>- {'bbox': [43, 14, 110, 33], 'text': 'fz RjqN'}
+test_synthetic_simple_48.png -<>- None
+test_synthetic_simple_49.png -<>- None
+test_synthetic_simple_50.png -<>- {'bbox': [164, 24, 193, 40], 'text': 'Qjf t'}
+test_synthetic_simple_51.jpg -<>- {'bbox': [137, 10, 203, 22], 'text': 'WjobSlcqat'}
+test_synthetic_simple_52.jpg -<>- None
+test_synthetic_simple_53.png -<>- None
+test_synthetic_simple_54.jpg -<>- None
+test_synthetic_simple_55.jpg -<>- {'bbox': [48, 11, 122, 27], 'text': 'dq  cLzJVl'}
+test_synthetic_simple_56.png -<>- None
+test_synthetic_simple_57.png -<>- {'bbox': [280, 26, 366, 45], 'text': 'DiCEV sn'}
+test_synthetic_simple_58.png -<>- {'bbox': [222, 14, 338, 33], 'text': 'lmLXtIuNKkR'}
+test_synthetic_simple_59.jpg -<>- {'bbox': [40, 11, 148, 27], 'text': 'Az EummCH F'}
+test_synthetic_simple_60.jpg -<>- None
+test_synthetic_simple_61.jpg -<>- {'bbox': [165, 13, 284, 27], 'text': 'T uW GghuBvoWp'}
+test_synthetic_simple_62.png -<>- {'bbox': [330, 15, 382, 33], 'text': 'HzlYT'}
+test_synthetic_simple_63.jpg -<>- None
+test_synthetic_simple_64.png -<>- {'bbox': [64, 12, 134, 26], 'text': 'jW AEooyt'}
+test_synthetic_simple_65.jpg -<>- None
+test_synthetic_simple_66.jpg -<>- {'bbox': [59, 17, 157, 36], 'text': 'pfm mIoKG'}
+test_synthetic_simple_67.jpg -<>- {'bbox': [34, 11, 119, 26], 'text': 'fTGcFPmM'}
+test_synthetic_simple_68.jpg -<>- None
+test_synthetic_simple_69.jpg -<>- {'bbox': [392, 11, 470, 25], 'text': 'UGclfRCEo'}
+test_synthetic_simple_70.png -<>- {'bbox': [195, 9, 232, 23], 'text': 'afSnd'}
+test_synthetic_simple_71.png -<>- {'bbox': [238, 27, 300, 46], 'text': 'icCaNI'}
+test_synthetic_simple_72.jpg -<>- {'bbox': [220, 13, 322, 32], 'text': 'rpM qkG Lu'}
+test_synthetic_simple_73.jpg -<>- {'bbox': [233, 11, 349, 25], 'text': 'GSuNwZulGLi kn'}
+test_synthetic_simple_74.jpg -<>- None
+test_synthetic_simple_75.jpg -<>- None
+test_synthetic_simple_76.jpg -<>- None
+test_synthetic_simple_77.jpg -<>- {'bbox': [194, 15, 333, 34], 'text': 'qslsTmlLygFBO'}
+test_synthetic_simple_78.png -<>- {'bbox': [199, 34, 299, 49], 'text': 'JLX iIEPoTHv'}
+test_synthetic_simple_79.jpg -<>- None
+test_synthetic_simple_80.png -<>- None
+test_synthetic_simple_81.jpg -<>- None
+test_synthetic_simple_82.jpg -<>- None
+test_synthetic_simple_83.png -<>- {'bbox': [159, 9, 260, 21], 'text': 'gLN v K FMYDBO'}
+test_synthetic_simple_84.jpg -<>- {'bbox': [173, 27, 311, 47], 'text': 'iiyKAl LzzfXCZ'}
+test_synthetic_simple_85.jpg -<>- None
+test_synthetic_simple_86.png -<>- None
+test_synthetic_simple_87.png -<>- None
+test_synthetic_simple_88.jpg -<>- None
+test_synthetic_simple_89.jpg -<>- None
+test_synthetic_simple_90.jpg -<>- {'bbox': [209, 28, 252, 43], 'text': 'TgryR'}
+test_synthetic_simple_91.png -<>- None
+test_synthetic_simple_92.png -<>- None
+test_synthetic_simple_93.jpg -<>- {'bbox': [191, 28, 326, 47], 'text': 'xXWSGWgziD'}
+test_synthetic_simple_94.jpg -<>- {'bbox': [279, 36, 377, 54], 'text': 'xnhBodq W'}
+test_synthetic_simple_95.jpg -<>- None
+test_synthetic_simple_96.jpg -<>- None
+test_synthetic_simple_97.jpg -<>- {'bbox': [170, 15, 276, 34], 'text': 'AqwWgAD r'}
+test_synthetic_simple_98.png -<>- None
+test_synthetic_simple_99.png -<>- None
+test_synthetic_simple_100.png -<>- None
+test_synthetic_simple_101.jpg -<>- {'bbox': [56, 13, 120, 29], 'text': 'kdBFdIY'}
+test_synthetic_simple_102.jpg -<>- None
+test_synthetic_simple_103.jpg -<>- None
+test_synthetic_simple_104.png -<>- None
+test_synthetic_simple_105.png -<>- None
+test_synthetic_simple_106.jpg -<>- None
+test_synthetic_simple_107.png -<>- {'bbox': [255, 26, 332, 47], 'text': 'kPjPKW'}
+test_synthetic_simple_108.png -<>- None
+test_synthetic_simple_109.png -<>- {'bbox': [301, 13, 394, 27], 'text': 'NzYxrx ms vC'}
+test_synthetic_simple_110.jpg -<>- {'bbox': [164, 12, 234, 26], 'text': 'ffjT CB mn'}
+test_synthetic_simple_111.jpg -<>- {'bbox': [222, 17, 289, 36], 'text': 'V  h yR'}
+test_synthetic_simple_112.png -<>- {'bbox': [46, 12, 94, 26], 'text': 'ilVO dh'}
+test_synthetic_simple_113.png -<>- {'bbox': [248, 36, 299, 52], 'text': 'jG FMg'}
+test_synthetic_simple_114.jpg -<>- None
+test_synthetic_simple_115.jpg -<>- None
+test_synthetic_simple_116.jpg -<>- {'bbox': [384, 16, 516, 35], 'text': 'ktCkzPvYktJue'}
+test_synthetic_simple_117.png -<>- None
+test_synthetic_simple_118.jpg -<>- {'bbox': [220, 23, 284, 38], 'text': 'Igi  taMy'}
+test_synthetic_simple_119.jpg -<>- None
+test_synthetic_simple_120.png -<>- {'bbox': [289, 9, 408, 24], 'text': 'uq GYZR uCEw'}
+test_synthetic_simple_121.jpg -<>- None
+test_synthetic_simple_122.png -<>- {'bbox': [141, 31, 288, 49], 'text': 'GckD U xKZWJfk'}
+test_synthetic_simple_123.png -<>- None
+test_synthetic_simple_124.jpg -<>- None
+test_synthetic_simple_125.jpg -<>- {'bbox': [264, 8, 298, 22], 'text': 'D E P'}
+test_synthetic_simple_126.jpg -<>- {'bbox': [28, 9, 72, 23], 'text': 'VHXwh'}
+test_synthetic_simple_127.jpg -<>- {'bbox': [259, 24, 329, 43], 'text': 'GhuAO'}
+test_synthetic_simple_128.jpg -<>- {'bbox': [271, 9, 367, 23], 'text': 'wOGg kSO lU'}
+test_synthetic_simple_129.jpg -<>- None
+test_synthetic_simple_130.jpg -<>- None
+test_synthetic_simple_131.jpg -<>- {'bbox': [250, 39, 354, 58], 'text': 'ovC  xChSI'}
+test_synthetic_simple_132.png -<>- None
+test_synthetic_simple_133.png -<>- {'bbox': [225, 27, 300, 43], 'text': 'mVfcmWR'}
+test_synthetic_simple_134.png -<>- {'bbox': [33, 11, 73, 27], 'text': 'lj sPP'}
+test_synthetic_simple_135.png -<>- None
+test_synthetic_simple_136.png -<>- {'bbox': [57, 12, 149, 27], 'text': 'SrhS   Hca i'}
+test_synthetic_simple_137.jpg -<>- None
+test_synthetic_simple_138.png -<>- {'bbox': [176, 10, 264, 24], 'text': 'q pBEjzqFvTH'}
+test_synthetic_simple_139.jpg -<>- {'bbox': [221, 15, 277, 34], 'text': 'C L M'}
+test_synthetic_simple_140.png -<>- None
+test_synthetic_simple_141.png -<>- {'bbox': [168, 12, 230, 28], 'text': 'dQkBbKi'}
+test_synthetic_simple_142.jpg -<>- {'bbox': [137, 13, 272, 31], 'text': 'uITdxL PqvX bW'}
+test_synthetic_simple_143.png -<>- {'bbox': [147, 27, 265, 41], 'text': 'uVQVfOxd gqpwj'}
+test_synthetic_simple_144.jpg -<>- None
+test_synthetic_simple_145.png -<>- {'bbox': [38, 10, 143, 22], 'text': 'sf N SgEMvABMt'}
+test_synthetic_simple_146.png -<>- None
+test_synthetic_simple_147.png -<>- {'bbox': [345, 12, 385, 27], 'text': 'xm N'}
+test_synthetic_simple_148.png -<>- {'bbox': [157, 15, 300, 36], 'text': 'OaF b  P V HA'}
+test_synthetic_simple_149.png -<>- {'bbox': [390, 13, 456, 29], 'text': 'tp   NB L'}

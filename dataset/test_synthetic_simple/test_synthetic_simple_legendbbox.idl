@@ -1,0 +1,150 @@
+test_synthetic_simple_0.png -<>- [{'bbox': [278, 471, 337, 489], 'text': 'CZSUX'}]
+test_synthetic_simple_1.png -<>- [{'bbox': [429, 29, 453, 47], 'text': 'pic'}]
+test_synthetic_simple_2.jpg -<>- None
+test_synthetic_simple_3.png -<>- [{'bbox': [446, 252, 472, 266], 'text': 'gBft'}]
+test_synthetic_simple_4.jpg -<>- [{'bbox': [205, 61, 243, 76], 'text': 'jusmf'}, {'bbox': [319, 61, 351, 76], 'text': 'TXjg'}]
+test_synthetic_simple_5.png -<>- [{'bbox': [400, 208, 426, 222], 'text': 'NrP'}, {'bbox': [400, 229, 456, 243], 'text': 'RUWTO'}]
+test_synthetic_simple_6.png -<>- [{'bbox': [237, 62, 264, 74], 'text': 'MVz'}]
+test_synthetic_simple_7.png -<>- None
+test_synthetic_simple_8.jpg -<>- None
+test_synthetic_simple_9.jpg -<>- [{'bbox': [175, 30, 195, 42], 'text': 'TKt'}]
+test_synthetic_simple_10.jpg -<>- None
+test_synthetic_simple_11.jpg -<>- [{'bbox': [218, 68, 270, 82], 'text': 'mAXmH'}]
+test_synthetic_simple_12.png -<>- None
+test_synthetic_simple_13.png -<>- [{'bbox': [170, 324, 201, 336], 'text': 'VgBy'}]
+test_synthetic_simple_14.png -<>- [{'bbox': [265, 61, 296, 79], 'text': 'nan'}]
+test_synthetic_simple_15.png -<>- [{'bbox': [455, 249, 489, 265], 'text': 'Mojz'}, {'bbox': [455, 273, 508, 289], 'text': 'UGXPy'}]
+test_synthetic_simple_16.png -<>- [{'bbox': [269, 448, 293, 462], 'text': 'bus'}]
+test_synthetic_simple_17.jpg -<>- [{'bbox': [253, 53, 277, 67], 'text': 'piQ'}]
+test_synthetic_simple_18.jpg -<>- [{'bbox': [298, 421, 338, 439], 'text': 'lLnM'}]
+test_synthetic_simple_19.jpg -<>- None
+test_synthetic_simple_20.png -<>- [{'bbox': [221, 63, 283, 82], 'text': 'TMSnL'}, {'bbox': [377, 63, 419, 82], 'text': 'gGD'}]
+test_synthetic_simple_21.jpg -<>- None
+test_synthetic_simple_22.png -<>- None
+test_synthetic_simple_23.jpg -<>- None
+test_synthetic_simple_24.jpg -<>- None
+test_synthetic_simple_25.jpg -<>- [{'bbox': [231, 325, 271, 339], 'text': 'OMFk'}]
+test_synthetic_simple_26.jpg -<>- [{'bbox': [176, 42, 205, 52], 'text': 'dRVk'}, {'bbox': [261, 42, 299, 52], 'text': 'hQDqK'}]
+test_synthetic_simple_27.png -<>- [{'bbox': [219, 66, 268, 81], 'text': 'tBoUW'}]
+test_synthetic_simple_28.png -<>- None
+test_synthetic_simple_29.png -<>- None
+test_synthetic_simple_30.jpg -<>- None
+test_synthetic_simple_31.jpg -<>- [{'bbox': [382, 289, 425, 308], 'text': 'lNCg'}]
+test_synthetic_simple_32.jpg -<>- [{'bbox': [180, 41, 210, 55], 'text': 'BPfL'}]
+test_synthetic_simple_33.png -<>- None
+test_synthetic_simple_34.jpg -<>- None
+test_synthetic_simple_35.jpg -<>- [{'bbox': [431, 51, 458, 69], 'text': 'nRI'}, {'bbox': [431, 78, 460, 96], 'text': 'ngh'}]
+test_synthetic_simple_36.png -<>- None
+test_synthetic_simple_37.jpg -<>- None
+test_synthetic_simple_38.png -<>- None
+test_synthetic_simple_39.jpg -<>- None
+test_synthetic_simple_40.jpg -<>- None
+test_synthetic_simple_41.jpg -<>- [{'bbox': [139, 299, 171, 311], 'text': 'QFVk'}, {'bbox': [235, 299, 279, 311], 'text': 'wpSsW'}]
+test_synthetic_simple_42.png -<>- None
+test_synthetic_simple_43.png -<>- [{'bbox': [207, 67, 248, 82], 'text': 'EdZC'}, {'bbox': [328, 67, 358, 82], 'text': 'nAZ'}]
+test_synthetic_simple_44.jpg -<>- None
+test_synthetic_simple_45.png -<>- None
+test_synthetic_simple_46.png -<>- None
+test_synthetic_simple_47.jpg -<>- [{'bbox': [251, 410, 292, 428], 'text': 'JbPn'}]
+test_synthetic_simple_48.png -<>- None
+test_synthetic_simple_49.png -<>- None
+test_synthetic_simple_50.png -<>- [{'bbox': [130, 43, 170, 57], 'text': 'YvwEf'}, {'bbox': [238, 43, 268, 57], 'text': 'yMR'}]
+test_synthetic_simple_51.jpg -<>- None
+test_synthetic_simple_52.jpg -<>- [{'bbox': [254, 51, 284, 67], 'text': 'cCq'}]
+test_synthetic_simple_53.png -<>- [{'bbox': [193, 74, 240, 92], 'text': 'PxFW'}, {'bbox': [330, 74, 368, 92], 'text': 'Gfyx'}]
+test_synthetic_simple_54.jpg -<>- None
+test_synthetic_simple_55.jpg -<>- None
+test_synthetic_simple_56.png -<>- [{'bbox': [141, 362, 167, 374], 'text': 'SlRT'}, {'bbox': [229, 362, 263, 374], 'text': 'RAwb'}]
+test_synthetic_simple_57.png -<>- None
+test_synthetic_simple_58.png -<>- None
+test_synthetic_simple_59.jpg -<>- None
+test_synthetic_simple_60.jpg -<>- None
+test_synthetic_simple_61.jpg -<>- [{'bbox': [180, 308, 206, 322], 'text': 'R rS'}, {'bbox': [272, 308, 307, 322], 'text': 'qkjBF'}]
+test_synthetic_simple_62.png -<>- None
+test_synthetic_simple_63.jpg -<>- None
+test_synthetic_simple_64.png -<>- [{'bbox': [245, 305, 285, 317], 'text': 'HNZQh'}]
+test_synthetic_simple_65.jpg -<>- [{'bbox': [263, 491, 294, 509], 'text': 'huP'}]
+test_synthetic_simple_66.jpg -<>- None
+test_synthetic_simple_67.jpg -<>- [{'bbox': [306, 42, 331, 54], 'text': 'weD'}, {'bbox': [306, 60, 338, 72], 'text': 'MGtY'}]
+test_synthetic_simple_68.jpg -<>- [{'bbox': [243, 353, 292, 368], 'text': 'yOLnF'}]
+test_synthetic_simple_69.jpg -<>- None
+test_synthetic_simple_70.png -<>- None
+test_synthetic_simple_71.png -<>- [{'bbox': [280, 46, 311, 64], 'text': 'ong'}]
+test_synthetic_simple_72.jpg -<>- None
+test_synthetic_simple_73.jpg -<>- [{'bbox': [165, 322, 187, 334], 'text': 'Imz'}, {'bbox': [251, 322, 277, 334], 'text': 'KbO'}]
+test_synthetic_simple_74.jpg -<>- None
+test_synthetic_simple_75.jpg -<>- None
+test_synthetic_simple_76.jpg -<>- [{'bbox': [278, 418, 323, 432], 'text': 'VBsHN'}]
+test_synthetic_simple_77.jpg -<>- [{'bbox': [401, 56, 445, 74], 'text': 'croIU'}]
+test_synthetic_simple_78.png -<>- [{'bbox': [197, 64, 239, 76], 'text': 'UgAug'}, {'bbox': [303, 64, 339, 76], 'text': 'adtNT'}]
+test_synthetic_simple_79.jpg -<>- None
+test_synthetic_simple_80.png -<>- None
+test_synthetic_simple_81.jpg -<>- None
+test_synthetic_simple_82.jpg -<>- None
+test_synthetic_simple_83.png -<>- None
+test_synthetic_simple_84.jpg -<>- None
+test_synthetic_simple_85.jpg -<>- [{'bbox': [188, 358, 214, 368], 'text': 'GeEj'}]
+test_synthetic_simple_86.png -<>- [{'bbox': [252, 57, 290, 75], 'text': 'CvQ'}]
+test_synthetic_simple_87.png -<>- None
+test_synthetic_simple_88.jpg -<>- None
+test_synthetic_simple_89.jpg -<>- [{'bbox': [242, 42, 270, 56], 'text': 'gRc'}, {'bbox': [343, 42, 364, 56], 'text': 'Qri'}]
+test_synthetic_simple_90.jpg -<>- [{'bbox': [227, 50, 272, 62], 'text': 'WPwxA'}]
+test_synthetic_simple_91.png -<>- [{'bbox': [188, 502, 227, 521], 'text': 'mrQ'}, {'bbox': [323, 502, 387, 521], 'text': 'GuHbZ'}]
+test_synthetic_simple_92.png -<>- [{'bbox': [204, 46, 243, 58], 'text': 'HInmz'}, {'bbox': [308, 46, 330, 58], 'text': 'JIM'}]
+test_synthetic_simple_93.jpg -<>- None
+test_synthetic_simple_94.jpg -<>- [{'bbox': [334, 58, 371, 76], 'text': 'YXhI'}]
+test_synthetic_simple_95.jpg -<>- None
+test_synthetic_simple_96.jpg -<>- None
+test_synthetic_simple_97.jpg -<>- [{'bbox': [340, 55, 390, 73], 'text': 'A oyM'}]
+test_synthetic_simple_98.png -<>- None
+test_synthetic_simple_99.png -<>- [{'bbox': [406, 212, 441, 228], 'text': 'MXU'}]
+test_synthetic_simple_100.png -<>- [{'bbox': [474, 31, 506, 46], 'text': 'mEk'}, {'bbox': [474, 55, 508, 70], 'text': 'uRG'}]
+test_synthetic_simple_101.jpg -<>- None
+test_synthetic_simple_102.jpg -<>- None
+test_synthetic_simple_103.jpg -<>- None
+test_synthetic_simple_104.png -<>- [{'bbox': [201, 62, 240, 77], 'text': 'DdtSl'}, {'bbox': [318, 62, 344, 77], 'text': 'IRg'}]
+test_synthetic_simple_105.png -<>- None
+test_synthetic_simple_106.jpg -<>- [{'bbox': [418, 177, 464, 191], 'text': 'ZoGFu'}, {'bbox': [418, 199, 443, 213], 'text': 'dzd'}]
+test_synthetic_simple_107.png -<>- [{'bbox': [222, 45, 276, 63], 'text': 'zwy M'}, {'bbox': [367, 45, 418, 63], 'text': 'gDBN'}]
+test_synthetic_simple_108.png -<>- None
+test_synthetic_simple_109.png -<>- [{'bbox': [180, 316, 218, 328], 'text': 'lYCGh'}, {'bbox': [281, 316, 309, 328], 'text': 'NfLb'}]
+test_synthetic_simple_110.jpg -<>- [{'bbox': [383, 149, 407, 163], 'text': 'mifji'}]
+test_synthetic_simple_111.jpg -<>- [{'bbox': [192, 568, 232, 586], 'text': 'mEU'}, {'bbox': [323, 568, 371, 586], 'text': 'NgxC'}]
+test_synthetic_simple_112.png -<>- [{'bbox': [131, 411, 170, 423], 'text': 'K uHU'}, {'bbox': [233, 411, 276, 423], 'text': 'yLNWg'}]
+test_synthetic_simple_113.png -<>- [{'bbox': [217, 61, 266, 75], 'text': 'bhQmT'}, {'bbox': [338, 61, 372, 75], 'text': 'sagX'}]
+test_synthetic_simple_114.jpg -<>- None
+test_synthetic_simple_115.jpg -<>- [{'bbox': [150, 37, 176, 47], 'text': 'zzyH'}, {'bbox': [231, 37, 265, 47], 'text': 'osoum'}]
+test_synthetic_simple_116.jpg -<>- None
+test_synthetic_simple_117.png -<>- [{'bbox': [523, 229, 574, 244], 'text': 'QqUcF'}, {'bbox': [523, 252, 563, 267], 'text': 'nNqB'}]
+test_synthetic_simple_118.jpg -<>- None
+test_synthetic_simple_119.jpg -<>- [{'bbox': [440, 223, 457, 237], 'text': 'ou'}, {'bbox': [440, 244, 466, 258], 'text': 'zOv'}]
+test_synthetic_simple_120.png -<>- None
+test_synthetic_simple_121.jpg -<>- None
+test_synthetic_simple_122.png -<>- [{'bbox': [163, 65, 193, 79], 'text': 'DDC'}, {'bbox': [261, 65, 306, 79], 'text': 'RAPsZ'}]
+test_synthetic_simple_123.png -<>- None
+test_synthetic_simple_124.jpg -<>- [{'bbox': [219, 325, 252, 334], 'text': 'gTOXX'}]
+test_synthetic_simple_125.jpg -<>- [{'bbox': [180, 388, 210, 398], 'text': 'PdpK'}]
+test_synthetic_simple_126.jpg -<>- None
+test_synthetic_simple_127.jpg -<>- None
+test_synthetic_simple_128.jpg -<>- None
+test_synthetic_simple_129.jpg -<>- None
+test_synthetic_simple_130.jpg -<>- None
+test_synthetic_simple_131.jpg -<>- [{'bbox': [236, 64, 281, 82], 'text': 'EqnX'}, {'bbox': [369, 64, 420, 82], 'text': 'xrAQv'}]
+test_synthetic_simple_132.png -<>- [{'bbox': [445, 249, 492, 263], 'text': 'GpKvC'}]
+test_synthetic_simple_133.png -<>- [{'bbox': [263, 47, 307, 63], 'text': 'PmQy'}]
+test_synthetic_simple_134.png -<>- None
+test_synthetic_simple_135.png -<>- [{'bbox': [354, 186, 416, 204], 'text': 'UsWhE'}, {'bbox': [354, 214, 384, 232], 'text': 'xon'}]
+test_synthetic_simple_136.png -<>- [{'bbox': [184, 487, 238, 502], 'text': 'ODppT'}, {'bbox': [317, 487, 369, 502], 'text': 'HYwsV'}]
+test_synthetic_simple_137.jpg -<>- None
+test_synthetic_simple_138.png -<>- [{'bbox': [312, 171, 348, 183], 'text': 'HPnre'}]
+test_synthetic_simple_139.jpg -<>- [{'bbox': [177, 424, 248, 443], 'text': 'ZQCBM'}, {'bbox': [343, 424, 376, 443], 'text': 'KNf'}]
+test_synthetic_simple_140.png -<>- [{'bbox': [392, 189, 414, 204], 'text': 'iNk'}, {'bbox': [392, 212, 415, 227], 'text': 'pgI'}]
+test_synthetic_simple_141.png -<>- None
+test_synthetic_simple_142.jpg -<>- None
+test_synthetic_simple_143.png -<>- [{'bbox': [154, 52, 190, 64], 'text': 'G eVx'}, {'bbox': [253, 52, 294, 64], 'text': 'cTPUB'}]
+test_synthetic_simple_144.jpg -<>- [{'bbox': [202, 338, 232, 350], 'text': 'NppJ'}]
+test_synthetic_simple_145.png -<>- [{'bbox': [390, 204, 416, 216], 'text': 'trfdu'}]
+test_synthetic_simple_146.png -<>- None
+test_synthetic_simple_147.png -<>- [{'bbox': [436, 45, 472, 59], 'text': 'zmXK'}, {'bbox': [436, 66, 478, 80], 'text': 'nmCXr'}]
+test_synthetic_simple_148.png -<>- [{'bbox': [478, 296, 523, 312], 'text': 'gIcFS'}, {'bbox': [478, 321, 512, 337], 'text': 'tfHK'}]
+test_synthetic_simple_149.png -<>- None
